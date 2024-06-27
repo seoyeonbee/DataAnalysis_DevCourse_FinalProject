@@ -16,6 +16,6 @@ Airbnb 사용자 정보 데이터와 사용자 세션 로그 데이터를 활용
 ## 맡은 역할
 - 데이터 전처리
 - EDA 및 시각화
-- KPI (AU, Churn Rate) 분석 및 대시보드 제작
+- KPI (AU, Stickiness, Churn Rate) 분석 및 대시보드 제작
 - 가설 설정
 - ppt 제작 및 발표
